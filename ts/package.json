@@ -1,0 +1,14 @@
+{
+  "name": "ai-utils-test-ts",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/node": "20.2.3",
+    "ts-node": "10.9.1"
+  },
+  "dependencies": {
+    "ai-utils.js": "*",
+    "dotenv": "16.0.3",
+    "zod": "^3.21.4",
+    "zod-to-json-schema": "^3.21.4"
+  }
+}

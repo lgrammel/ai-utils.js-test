@@ -1,0 +1,15 @@
+{
+  "name": "ai-utils-test-1",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "ai-utils.js": "*",
+    "dotenv": "16.0.3",
+    "zod": "^3.21.4",
+    "zod-to-json-schema": "^3.21.4"
+  }
+}
